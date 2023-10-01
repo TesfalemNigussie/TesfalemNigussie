@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Tesfalem Nigussie Hailu</h1>
-<h3 align="center">A passionate Mobile Application Engineer</h3>
+<h2 align="center">A passionate Mobile Application Engineer</h2>
+<p>Skilled Full-stack Developer with 4+ years of demonstrated working experience in mobile, web and back-end application development. Experienced with all stages of the development cycle for dynamic mobile, web and back-end projects. Dart, C#, Java, JavaScript, JSON, XML, HTML, CSS, and SQL are among the programming and scripting languages in which I'm proficient. Flutter, Xamarin, Node, React, and.NET technical skills. In this fast changing profession, I am always looking for new technology to learn and methods to improve myself. Hardworking, meticulous, and capable of multitasking.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tesfalemnigussie" alt="tesfalemnigussie" /></a> </p>
 
