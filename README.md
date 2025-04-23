@@ -1,21 +1,72 @@
 <h1 align="center">Hello 👋, I'm Tesfalem Nigussie Hailu</h1>
-<h2 align="center">A passionate Mobile Application Engineer</h2>
-<p>Skilled Full-stack Developer with 5+ years of demonstrated working experience in mobile, web and back-end application development. Experienced with all stages of the development cycle for dynamic mobile, web and back-end projects. Dart, C#, Java, JavaScript, JSON, XML, HTML, CSS, and SQL are among the programming and scripting languages in which I'm proficient. Flutter, Xamarin, Node, React, and.NET technical skills. In this fast changing profession, I am always looking for new technology to learn and methods to improve myself. Hardworking, meticulous, and capable of multitasking.</p>
+<h2 align="center">🚀 Passionate Full-Stack Software Engineer with 7+ years of experience</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tesfalemnigussie" alt="tesfalemnigussie" /></a> </p>
-
-- 📫 How to reach me **tesfalem.nigussie.h@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tesfalem-nigussie/" target="blank">
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+code+with+precision+and+purpose.;Always+learning%2C+always+building.;Turning+ideas+into+impact.">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tesfalemnigussie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tesfalemnigussie.visitor-badge" alt="Visitor badge" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tesfalemnigussie&show_icons=true&locale=en&layout=compact" alt="tesfalemnigussie" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tesfalemnigussie&" alt="tesfalemnigussie" /></p>
+### 💫 About Me
 
+🔧 I am a highly motivated Software Engineer with over **7+ years** of professional experience in architecting, developing, and maintaining robust, scalable, and high-performing mobile, web, and backend systems. I’ve worked extensively with technologies like **Flutter, Xamarin, React, Next.js, NestJS, Node.js, .NET, PostgreSQL, MongoDB, Docker, Kubernetes, SQL Server** and more.
+
+💡 My expertise spans the full development lifecycle – from concept to deployment and beyond. I take pride in writing clean, maintainable code, designing intuitive system architectures, and continuously learning to stay ahead in this ever-evolving tech landscape.
+
+💬 Fluent in multiple programming languages including Dart, C#, JavaScript, Java, HTML, CSS, SQL, and more.
+
+🧠 Curious by nature, I’m always exploring new technologies and better ways to solve problems. Meticulous, collaborative, and driven by passion.
+
+---
+
+### 📬 Reach Me
+
+- 📧 Email: **tesfalem.nigussie.h@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tesfalem-nigussie/)
+
+---
+
+### 🛠️ Top Skills & Tools
+
+**Technologies:**  
+NestJS, Next.js, React, Node.js, Flutter, Xamarin, .NET, PostgreSQL, MongoDB, SQL Server, Docker, Kubernetes, Redis, Kafka, Firebase
+
+**Languages:**  
+Dart, C#, JavaScript, TypeScript, Java, Swift, Kotlin, HTML, CSS, SQL
+
+**Tools:**  
+Git, Postman, Figma, Azure, Firebase, Visual Studio, VS Code
+
+**Architecture:**  
+Microservices, System Design, RESTful APIs, Scalable Backends
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tesfalemnigussie&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tesfalemnigussie&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tesfalemnigussie&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+### ✨ Dev Quote
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
